@@ -1,0 +1,15 @@
+.it{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightblue;
+    box-shadow: 5px 5px 5px grey;
+    cursor: pointer;
+    transition: all 0.5s;
+}

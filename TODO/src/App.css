@@ -1,0 +1,55 @@
+h2 {
+    font-weight: 500;
+    font-size: 45px;
+    margin-bottom: 25px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .col-2 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    min-width: 80px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .b1 {
+    margin: 5px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .row1 {
+    margin: 5px;
+  }
+  .welcome{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 25px;
+    padding: 20px;
+    text-align: center;
+  }
+  
